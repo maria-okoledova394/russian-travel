@@ -1,0 +1,9 @@
+.header__lang-link-zone {
+    list-style: none;
+    display: flex;
+    width: 78px;
+    min-height: 28px;
+    margin: 0 0;
+    padding-inline-start: 0;
+    justify-content: space-between;
+}
