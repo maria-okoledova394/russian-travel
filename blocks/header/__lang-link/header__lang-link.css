@@ -11,3 +11,10 @@
     color: #FFFFFF;
     vertical-align: bottom;
 }
+
+@media screen and (max-width: 425px) {
+    .header__lang-link {
+        width: 22px;
+        height: 24px;
+    }
+}

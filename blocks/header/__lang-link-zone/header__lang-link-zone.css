@@ -7,3 +7,9 @@
     padding-inline-start: 0;
     justify-content: space-between;
 }
+
+@media screen and (max-width: 425px) {
+    .header__lang-link-zone {
+        width: 62px;
+    }
+}
