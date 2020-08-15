@@ -4,8 +4,8 @@
 @import url(./__caption/lead__caption.css);
 
 .lead {
-    width: 928px; /* TODO: изменить на относительные */
-    margin: 48px auto 0 auto;
+    width: 90.625%; 
+    margin: 49px auto 0 auto;
 }
 
 @media screen and (max-width: 768px) {
@@ -16,6 +16,6 @@
 
 @media screen and (min-width: 1280px) {
     .lead {
-        width: 984px;
+        max-width: 984px;
     }
 }
