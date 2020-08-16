@@ -2,7 +2,6 @@
     list-style: none;
     display: flex;
     width: calc(30px + 30px + 18px);
-    min-height: 28px;
     margin: 0 0;
     padding-inline-start: 0;
     justify-content: space-between;
@@ -11,6 +10,5 @@
 @media screen and (max-width: 425px) {
     .header__lang-link-zone {
         width: calc(22px + 22px + 18px);
-        min-height: 24px;
     }
 }
