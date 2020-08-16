@@ -1,6 +1,6 @@
 .lead__caption {
-    width: 159px;  /* TODO: исправить на 159px */
-    height: 14px;
+    width: 159px;
+    min-height: 14px;
     margin: 8px 0 0 0;
     font-family: Inter;
     font-style: normal;

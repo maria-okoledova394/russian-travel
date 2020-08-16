@@ -8,6 +8,10 @@
     position: relative;
 }
 
+.cover:hover .cover__overlay {
+    opacity: 0.8;
+}
+
 @media screen and (min-width: 1280px) {
     .cover {
         width: 1184px;
