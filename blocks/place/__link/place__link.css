@@ -8,6 +8,10 @@
     color: #FFFFFF;
 }
 
+.place__link:hover {
+    opacity: 0.8;
+}
+
 @media screen and (max-width: 425px) {
     .place__link {
         display: none;
