@@ -1,0 +1,15 @@
+.place {
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    grid-template-rows: min-content 1fr;
+    column-gap: 3.125%;
+    row-gap: 48px;
+    width: 100%; 
+    margin-top: 80px;
+}
+
+@media screen and (max-width: 425px) {
+    .place {
+        display: block;
+    }
+}
