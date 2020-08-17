@@ -3,11 +3,4 @@
     display: flex;
     margin: 0 0;
     padding-inline-start: 0;
-    justify-content: space-between;
-}
-
-@media screen and (max-width: 425px) {
-    .header__lang-links {
-        width: calc(22px + 22px + 18px);
-    }
 }
